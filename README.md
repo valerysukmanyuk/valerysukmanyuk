@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently studying at HSE SPB
-- 🌱 I’m currently learning NLP
-- 🤔 I’m looking for help with everything
-- ⚡ Fun fact: I speak fluent Chinese
+
+* 🎓 MSc in Language Technologies in Business and Education
+* 🔬 Interested in NLP, LLMs, machine translation, and datasets for ML
+* 📚 Exploring the intersection of computational linguistics and AI in education and low-resource languages preservation
+* 🧪 Building NLP/LLM pet-projects and experimenting with model fine-tuning and RAG
